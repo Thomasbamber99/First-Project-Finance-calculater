@@ -11,10 +11,10 @@ ___
 
 ## Calculating Interest rates
 
-![Interest](https://github.com/Thomasbamber99/First-Project-Finance-calculater/blob/c11e33dc7a896ef8f4a66de0579a1fb390149c46/Img/Interest.png)
+![Interest](https://github.com/Thomasbamber99/First-Project-Finance-calculater/blob/65677d8fbe23c3f916bb9f9c3b711a46be716d6f/Img/Interest.png)
 
 ___
 
 ## Calculating Bond repayments
 
-![Bond](https://github.com/Thomasbamber99/First-Project-Finance-calculater/blob/41e9de0b98eb54bbf4dced28a39d36318626e40e/Img/Bond%20payments.png)
+![Bond](https://github.com/Thomasbamber99/First-Project-Finance-calculater/blob/65677d8fbe23c3f916bb9f9c3b711a46be716d6f/Img/Bond%20payments.png)

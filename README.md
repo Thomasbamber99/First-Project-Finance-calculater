@@ -5,4 +5,4 @@ This was my first project that I created using Python, a simple and user friendl
 which gives the user the choice between selecting to calculate simple/compound interest rates or 
 bond payments on a house instead.
 
-![Screenshot 2023-02-06 18 51 39](Img/Finance Calculator.png)
+![Project](https://github.com/Thomasbamber99/First-Project-Finance-calculater/blob/773e69156729863450bb03eb599a542200d68718/Img/Finance%20Calculator.png)
